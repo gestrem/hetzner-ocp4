@@ -28,7 +28,7 @@ compute_root_disk_size: '120G'
 
 vm_autostart: false
 
-# Important: OpenShift version must match to RHEL CoreOS version!
+# Important : OpenShift version must match to RHEL CoreOS version!
 
 # reference to OpenShift version
 openshift_version: 4.5.2
